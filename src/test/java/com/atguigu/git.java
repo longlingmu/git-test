@@ -7,5 +7,6 @@ public class git {
     public void testGit(){
     System.out.println("hello,git");
     System.out.println("hello hello,git");
+    System.out.println("hello hello,git3");
 }
 }
